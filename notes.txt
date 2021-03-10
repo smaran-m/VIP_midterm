@@ -1,0 +1,7 @@
+Job submitted to PBS queue system with runmid.sh
+(qsub runmid.sh)
+runmid.sh also contains location of environment file
+Code pertaining to ase calculations is in midterm.py
+Each member of our group did our code independently, cross-checked with each other
+Personally, I referred a lot to my groupmates for help with the project
+Accomplishments include meeting all the goals outlined in the project description, coming within a small margin of error for the true value.
