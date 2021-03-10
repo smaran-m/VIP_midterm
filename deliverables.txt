@@ -1,0 +1,36 @@
+Path to directory in PACE cluster:
+/storage/home/hpaceice1/smishra327/VIP_midterm
+
+Reaction energies from stdout:
+Grid spacing: 0.2
+Reaction energy of
+H2O: -467.633829
+H2: -31.968549
+O2: -864.945401
+1 mol of h2o: 3.192579
+2 mol of h2o: 6.385158
+error percentage: 7.770798%
+Grid spacing: 0.16
+Reaction energy of
+H2O: -466.820786
+H2: -31.745575
+O2: -864.083952
+1 mol of h2o: 3.033236
+2 mol of h2o: 6.066471
+error percentage: 2.391887%
+Grid spacing: 0.14
+Reaction energy of
+H2O: -467.038040
+H2: -31.736961
+O2: -864.581062
+1 mol of h2o: 3.010548
+2 mol of h2o: 6.021097
+error percentage: 1.626049%
+Grid spacing: 0.12
+Reaction energy of
+H2O: -466.915822
+H2: -31.732693
+O2: -864.434729
+1 mol of h2o: 2.965764
+2 mol of h2o: 5.931528
+error percentage: 0.114275%
